@@ -1,0 +1,17 @@
+Correlation doesn’t implies Causation all the times. It implies only at sometimes.
+
+Let me explain with examples.
+
+a) Example where CORRELATION IMPLIES CAUSATION
+PROBLEM STATEMENT: Students who follow multiple resources to learn a subject get more marks in the examination.
+SOLUTION: Here we see a Positive Correlation between the two quantities ‘Number of Resources Followed’ and ‘Marks gained by a student’.
+The reason behind this is if a student follows multiple resources to learn a subject, then he/she might get additional information about each topic in the subject through different resources and also the topics that are explained in a complicated way in one resource might be explained in a simpler and precise way in other resources which helps the student understand the concepts in a better way and present it in the examination in a better way than the other students and may help them in getting better marks.
+Here we can say that Correlation implies Causation.
+
+b) Example where CORRELATION DOESN’T IMPLY CAUSATION
+PROBLEM STATEMENT: People who consume more Coffee get higher salaries.
+SOLUTION: Here we see positive correlation between the two quantities ‘Number of Cups of coffee consumed a day’ and ‘Salaries’. This is not at all a valid point.
+The reason behind this problem statement is those who take higher salaries will have to work for extra hours sometimes to meet their deadlines. So in order to get away from tiredness they consume more and more coffee.
+Here Correlations doesn’t imply Causation as consuming more coffee is not making employees get more salaries. Also it is not mandatory to consume more coffee in order to get high salaries. The same deadlines can be met by others on stipulated time(without working for extra hours) and without consuming much coffee.
+
+In order to confirm whether correlation implies causation or not, we need to have the domain knowledge and the sense of what the data is all about.
